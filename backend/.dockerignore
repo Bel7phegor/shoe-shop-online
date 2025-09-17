@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/.dockerignore
+**/.git
+**/.gitignore
+**/.vs
+**/nuget.config
+**/*.user
+**/*.lock.json
+Dockerfile*
+docker-compose*
+.docker/
+**/node_modules/
+**/wwwroot/lib/
